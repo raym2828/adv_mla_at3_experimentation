@@ -1,0 +1,7 @@
+1. Download dataset(keep in mind that teammates need to use same code)
+2. Extract all files into csvs, dtwo steps of extraction required
+3. Load all files for one airport
+4. Create consolidated dataset for each airport
+5. Combine all airport files into one mega file
+
+6. Clean up at every stage
