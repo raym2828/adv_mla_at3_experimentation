@@ -1,7 +1,5 @@
 # Data
-/data/external/
-/data/interim/
-/data/raw/
+/data/
 
 
 
