@@ -23,3 +23,4 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
+cuda-repo-wsl-ubuntu-12-6-local_12.6.2-1_amd64.deb
