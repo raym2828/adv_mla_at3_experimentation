@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-FOr running experiements for AT3
+For running experiements for AT3
 
 ## Project Organization
 
@@ -39,7 +39,7 @@ FOr running experiements for AT3
 │
 ├── setup.cfg          <- Configuration file for flake8
 │
-└── advmla_at3_exp   <- Source code for use in this project.
+└── advmla_at3_package   <- Source code for use in this project.
     │
     ├── __init__.py             <- Makes advmla_at3_exp a Python module
     │
