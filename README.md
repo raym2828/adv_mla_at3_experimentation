@@ -58,4 +58,8 @@ FOr running experiements for AT3
 ```
 
 --------
-
+## How to Run
+1. Download the Airfare Itineries Dataset (itineraries_csv.zip) and save it in the <data/external/> directory
+2. Open the 2_tsui_raymond_10701389_Transform notebook in <notebooks/> directory and run the code to unzip, clean and transform data. THe final dataset for modelling with be a feather dataset.
+3. Use the various modelling notebooks to build and run the models
+4. Use the Eval notebook to visualise model performance
