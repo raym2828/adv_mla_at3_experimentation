@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-For running experiements for AT3
+For running experiements for AT3 Airfare Predictions. Various models were used including linear regression, XGBoost, Light GBM and Neural Network using Tensorflow.
 
 ## Project Organization
 
@@ -39,7 +39,7 @@ For running experiements for AT3
 │
 ├── setup.cfg          <- Configuration file for flake8
 │
-└── advmla_at3_package   <- Source code for use in this project.
+└── advmla_at3_exp   <- Source code for use in this project.
     │
     ├── __init__.py             <- Makes advmla_at3_exp a Python module
     │
@@ -58,4 +58,8 @@ For running experiements for AT3
 ```
 
 --------
-
+## How to Run
+1. Download the Airfare Itineries Dataset (itineraries_csv.zip) and save it in the <data/external/> directory
+2. Open the 2_tsui_raymond_10701389_Transform notebook in <notebooks/> directory and run the code to unzip, clean and transform data. The final dataset for modelling with be a feather dataset.
+3. Use the various modelling notebooks to build and run the models
+4. Use the Eval notebook to visualise model performance
