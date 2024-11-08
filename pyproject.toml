@@ -10,12 +10,24 @@ authors = [
   { name = "ry" },
 ]
 
+[tool.poetry]
+name = "adv_mla_at3_experimentation"
+version = "0.1.0"
+description = "For running experiements for AT3"
+authors = ["Group 15"]
 readme = "README.md"
-classifiers = [
-    "Programming Language :: Python :: 3",
-    
-]
-requires-python = "~=3.11.4"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+jupyterlab = "4.2.3"
+pandas = "2.2.2"
+scikit-learn = "1.5.1"
+lightgbm = "4.4.0"
+lime = "0.2.0.1"
+xgboost = "^2.1.1"
+matplotlib = "^3.9.2"
+seaborn = "^0.13.2"
+ipykernel = "^6.29.5"
 
 [tool.black]
 line-length = 99

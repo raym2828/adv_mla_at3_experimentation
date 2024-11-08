@@ -1,0 +1,952 @@
+[
+    {
+        "startingAirport": "ATL",
+        "destinationAirport": "BOS",
+        "averageDistance": 987.2659912109375
+    },
+    {
+        "startingAirport": "ATL",
+        "destinationAirport": "CLT",
+        "averageDistance": 552.8359985351562
+    },
+    {
+        "startingAirport": "ATL",
+        "destinationAirport": "DEN",
+        "averageDistance": 1532.6519775390625
+    },
+    {
+        "startingAirport": "ATL",
+        "destinationAirport": "DFW",
+        "averageDistance": 908.27001953125
+    },
+    {
+        "startingAirport": "ATL",
+        "destinationAirport": "DTW",
+        "averageDistance": 889.697998046875
+    },
+    {
+        "startingAirport": "ATL",
+        "destinationAirport": "EWR",
+        "averageDistance": 823.0159912109375
+    },
+    {
+        "startingAirport": "ATL",
+        "destinationAirport": "IAD",
+        "averageDistance": 605.8660278320312
+    },
+    {
+        "startingAirport": "ATL",
+        "destinationAirport": "JFK",
+        "averageDistance": 929.2930297851562
+    },
+    {
+        "startingAirport": "ATL",
+        "destinationAirport": "LAX",
+        "averageDistance": 2069.47900390625
+    },
+    {
+        "startingAirport": "ATL",
+        "destinationAirport": "LGA",
+        "averageDistance": 842.0189819335938
+    },
+    {
+        "startingAirport": "ATL",
+        "destinationAirport": "MIA",
+        "averageDistance": 1048.468017578125
+    },
+    {
+        "startingAirport": "ATL",
+        "destinationAirport": "OAK",
+        "averageDistance": 2339.26806640625
+    },
+    {
+        "startingAirport": "ATL",
+        "destinationAirport": "ORD",
+        "averageDistance": 902.4219970703125
+    },
+    {
+        "startingAirport": "ATL",
+        "destinationAirport": "PHL",
+        "averageDistance": 847.593994140625
+    },
+    {
+        "startingAirport": "ATL",
+        "destinationAirport": "SFO",
+        "averageDistance": 2465.97998046875
+    },
+    {
+        "startingAirport": "BOS",
+        "destinationAirport": "ATL",
+        "averageDistance": 1008.2379760742188
+    },
+    {
+        "startingAirport": "BOS",
+        "destinationAirport": "CLT",
+        "averageDistance": 756.5859985351562
+    },
+    {
+        "startingAirport": "BOS",
+        "destinationAirport": "DEN",
+        "averageDistance": 1880.8580322265625
+    },
+    {
+        "startingAirport": "BOS",
+        "destinationAirport": "DFW",
+        "averageDistance": 1620.9339599609375
+    },
+    {
+        "startingAirport": "BOS",
+        "destinationAirport": "DTW",
+        "averageDistance": 750.6270141601562
+    },
+    {
+        "startingAirport": "BOS",
+        "destinationAirport": "EWR",
+        "averageDistance": 444.7040100097656
+    },
+    {
+        "startingAirport": "BOS",
+        "destinationAirport": "IAD",
+        "averageDistance": 617.8140258789062
+    },
+    {
+        "startingAirport": "BOS",
+        "destinationAirport": "JFK",
+        "averageDistance": 243.10800170898438
+    },
+    {
+        "startingAirport": "BOS",
+        "destinationAirport": "LAX",
+        "averageDistance": 2691.451904296875
+    },
+    {
+        "startingAirport": "BOS",
+        "destinationAirport": "LGA",
+        "averageDistance": 325.4960021972656
+    },
+    {
+        "startingAirport": "BOS",
+        "destinationAirport": "MIA",
+        "averageDistance": 1291.7220458984375
+    },
+    {
+        "startingAirport": "BOS",
+        "destinationAirport": "OAK",
+        "averageDistance": 2909.449951171875
+    },
+    {
+        "startingAirport": "BOS",
+        "destinationAirport": "ORD",
+        "averageDistance": 893.4119873046875
+    },
+    {
+        "startingAirport": "BOS",
+        "destinationAirport": "PHL",
+        "averageDistance": 303.7040100097656
+    },
+    {
+        "startingAirport": "BOS",
+        "destinationAirport": "SFO",
+        "averageDistance": 2808.552001953125
+    },
+    {
+        "startingAirport": "DEN",
+        "destinationAirport": "ATL",
+        "averageDistance": 1502.89501953125
+    },
+    {
+        "startingAirport": "DEN",
+        "destinationAirport": "BOS",
+        "averageDistance": 1910.154052734375
+    },
+    {
+        "startingAirport": "DEN",
+        "destinationAirport": "CLT",
+        "averageDistance": 1628.60205078125
+    },
+    {
+        "startingAirport": "DEN",
+        "destinationAirport": "DFW",
+        "averageDistance": 940.666015625
+    },
+    {
+        "startingAirport": "DEN",
+        "destinationAirport": "DTW",
+        "averageDistance": 1557.2540283203125
+    },
+    {
+        "startingAirport": "DEN",
+        "destinationAirport": "EWR",
+        "averageDistance": 1794.196044921875
+    },
+    {
+        "startingAirport": "DEN",
+        "destinationAirport": "IAD",
+        "averageDistance": 1655.5789794921875
+    },
+    {
+        "startingAirport": "DEN",
+        "destinationAirport": "JFK",
+        "averageDistance": 1898.5679931640625
+    },
+    {
+        "startingAirport": "DEN",
+        "destinationAirport": "LAX",
+        "averageDistance": 998.7219848632812
+    },
+    {
+        "startingAirport": "DEN",
+        "destinationAirport": "LGA",
+        "averageDistance": 1747.925048828125
+    },
+    {
+        "startingAirport": "DEN",
+        "destinationAirport": "MIA",
+        "averageDistance": 2051.5380859375
+    },
+    {
+        "startingAirport": "DEN",
+        "destinationAirport": "OAK",
+        "averageDistance": 1243.5050048828125
+    },
+    {
+        "startingAirport": "DEN",
+        "destinationAirport": "ORD",
+        "averageDistance": 1174.4759521484375
+    },
+    {
+        "startingAirport": "DEN",
+        "destinationAirport": "PHL",
+        "averageDistance": 1844.3599853515625
+    },
+    {
+        "startingAirport": "DEN",
+        "destinationAirport": "SFO",
+        "averageDistance": 1088.89794921875
+    },
+    {
+        "startingAirport": "DFW",
+        "destinationAirport": "ATL",
+        "averageDistance": 954.4840087890625
+    },
+    {
+        "startingAirport": "DFW",
+        "destinationAirport": "BOS",
+        "averageDistance": 1608.7650146484375
+    },
+    {
+        "startingAirport": "DFW",
+        "destinationAirport": "CLT",
+        "averageDistance": 1140.3929443359375
+    },
+    {
+        "startingAirport": "DFW",
+        "destinationAirport": "DEN",
+        "averageDistance": 952.4329833984375
+    },
+    {
+        "startingAirport": "DFW",
+        "destinationAirport": "DTW",
+        "averageDistance": 1272.14697265625
+    },
+    {
+        "startingAirport": "DFW",
+        "destinationAirport": "EWR",
+        "averageDistance": 1446.7459716796875
+    },
+    {
+        "startingAirport": "DFW",
+        "destinationAirport": "IAD",
+        "averageDistance": 1322.8289794921875
+    },
+    {
+        "startingAirport": "DFW",
+        "destinationAirport": "JFK",
+        "averageDistance": 1486.93505859375
+    },
+    {
+        "startingAirport": "DFW",
+        "destinationAirport": "LAX",
+        "averageDistance": 1368.27197265625
+    },
+    {
+        "startingAirport": "DFW",
+        "destinationAirport": "LGA",
+        "averageDistance": 1432.6639404296875
+    },
+    {
+        "startingAirport": "DFW",
+        "destinationAirport": "MIA",
+        "averageDistance": 1301.447998046875
+    },
+    {
+        "startingAirport": "DFW",
+        "destinationAirport": "OAK",
+        "averageDistance": 1791.68505859375
+    },
+    {
+        "startingAirport": "DFW",
+        "destinationAirport": "ORD",
+        "averageDistance": 1030.3389892578125
+    },
+    {
+        "startingAirport": "DFW",
+        "destinationAirport": "PHL",
+        "averageDistance": 1470.134033203125
+    },
+    {
+        "startingAirport": "DFW",
+        "destinationAirport": "SFO",
+        "averageDistance": 1606.89404296875
+    },
+    {
+        "startingAirport": "EWR",
+        "destinationAirport": "ATL",
+        "averageDistance": 817.6829833984375
+    },
+    {
+        "startingAirport": "EWR",
+        "destinationAirport": "BOS",
+        "averageDistance": 335.4460144042969
+    },
+    {
+        "startingAirport": "EWR",
+        "destinationAirport": "CLT",
+        "averageDistance": 691.6409912109375
+    },
+    {
+        "startingAirport": "EWR",
+        "destinationAirport": "DEN",
+        "averageDistance": 1767.083984375
+    },
+    {
+        "startingAirport": "EWR",
+        "destinationAirport": "DFW",
+        "averageDistance": 1457.06494140625
+    },
+    {
+        "startingAirport": "EWR",
+        "destinationAirport": "DTW",
+        "averageDistance": 693.7880249023438
+    },
+    {
+        "startingAirport": "EWR",
+        "destinationAirport": "IAD",
+        "averageDistance": 684.280029296875
+    },
+    {
+        "startingAirport": "EWR",
+        "destinationAirport": "LAX",
+        "averageDistance": 2536.632080078125
+    },
+    {
+        "startingAirport": "EWR",
+        "destinationAirport": "LGA",
+        "averageDistance": 185.0
+    },
+    {
+        "startingAirport": "EWR",
+        "destinationAirport": "MIA",
+        "averageDistance": 1201.7550048828125
+    },
+    {
+        "startingAirport": "EWR",
+        "destinationAirport": "OAK",
+        "averageDistance": 2839.43408203125
+    },
+    {
+        "startingAirport": "EWR",
+        "destinationAirport": "ORD",
+        "averageDistance": 792.0269775390625
+    },
+    {
+        "startingAirport": "EWR",
+        "destinationAirport": "PHL",
+        "averageDistance": 822.0969848632812
+    },
+    {
+        "startingAirport": "EWR",
+        "destinationAirport": "SFO",
+        "averageDistance": 2660.8701171875
+    },
+    {
+        "startingAirport": "JFK",
+        "destinationAirport": "ATL",
+        "averageDistance": 919.7650146484375
+    },
+    {
+        "startingAirport": "JFK",
+        "destinationAirport": "BOS",
+        "averageDistance": 236.77200317382812
+    },
+    {
+        "startingAirport": "JFK",
+        "destinationAirport": "CLT",
+        "averageDistance": 667.14599609375
+    },
+    {
+        "startingAirport": "JFK",
+        "destinationAirport": "DEN",
+        "averageDistance": 1898.446044921875
+    },
+    {
+        "startingAirport": "JFK",
+        "destinationAirport": "DFW",
+        "averageDistance": 1496.39697265625
+    },
+    {
+        "startingAirport": "JFK",
+        "destinationAirport": "DTW",
+        "averageDistance": 660.469970703125
+    },
+    {
+        "startingAirport": "JFK",
+        "destinationAirport": "IAD",
+        "averageDistance": 600.7849731445312
+    },
+    {
+        "startingAirport": "JFK",
+        "destinationAirport": "LAX",
+        "averageDistance": 2568.716064453125
+    },
+    {
+        "startingAirport": "JFK",
+        "destinationAirport": "MIA",
+        "averageDistance": 1148.0439453125
+    },
+    {
+        "startingAirport": "JFK",
+        "destinationAirport": "OAK",
+        "averageDistance": 2814.570068359375
+    },
+    {
+        "startingAirport": "JFK",
+        "destinationAirport": "ORD",
+        "averageDistance": 865.2080078125
+    },
+    {
+        "startingAirport": "JFK",
+        "destinationAirport": "PHL",
+        "averageDistance": 675.3350219726562
+    },
+    {
+        "startingAirport": "JFK",
+        "destinationAirport": "SFO",
+        "averageDistance": 2653.7451171875
+    },
+    {
+        "startingAirport": "LAX",
+        "destinationAirport": "ATL",
+        "averageDistance": 2099.93603515625
+    },
+    {
+        "startingAirport": "LAX",
+        "destinationAirport": "BOS",
+        "averageDistance": 2713.008056640625
+    },
+    {
+        "startingAirport": "LAX",
+        "destinationAirport": "CLT",
+        "averageDistance": 2365.85888671875
+    },
+    {
+        "startingAirport": "LAX",
+        "destinationAirport": "DEN",
+        "averageDistance": 1027.8890380859375
+    },
+    {
+        "startingAirport": "LAX",
+        "destinationAirport": "DFW",
+        "averageDistance": 1392.06494140625
+    },
+    {
+        "startingAirport": "LAX",
+        "destinationAirport": "DTW",
+        "averageDistance": 2295.285888671875
+    },
+    {
+        "startingAirport": "LAX",
+        "destinationAirport": "EWR",
+        "averageDistance": 2574.416015625
+    },
+    {
+        "startingAirport": "LAX",
+        "destinationAirport": "IAD",
+        "averageDistance": 2444.693115234375
+    },
+    {
+        "startingAirport": "LAX",
+        "destinationAirport": "JFK",
+        "averageDistance": 2615.73193359375
+    },
+    {
+        "startingAirport": "LAX",
+        "destinationAirport": "LGA",
+        "averageDistance": 2759.9560546875
+    },
+    {
+        "startingAirport": "LAX",
+        "destinationAirport": "MIA",
+        "averageDistance": 2472.544921875
+    },
+    {
+        "startingAirport": "LAX",
+        "destinationAirport": "OAK",
+        "averageDistance": 1097.8570556640625
+    },
+    {
+        "startingAirport": "LAX",
+        "destinationAirport": "ORD",
+        "averageDistance": 1952.573974609375
+    },
+    {
+        "startingAirport": "LAX",
+        "destinationAirport": "PHL",
+        "averageDistance": 2591.47998046875
+    },
+    {
+        "startingAirport": "LAX",
+        "destinationAirport": "SFO",
+        "averageDistance": 486.0350036621094
+    },
+    {
+        "startingAirport": "LGA",
+        "destinationAirport": "ATL",
+        "averageDistance": 848.802001953125
+    },
+    {
+        "startingAirport": "LGA",
+        "destinationAirport": "BOS",
+        "averageDistance": 336.2969970703125
+    },
+    {
+        "startingAirport": "LGA",
+        "destinationAirport": "CLT",
+        "averageDistance": 627.3740234375
+    },
+    {
+        "startingAirport": "LGA",
+        "destinationAirport": "DEN",
+        "averageDistance": 1763.27197265625
+    },
+    {
+        "startingAirport": "LGA",
+        "destinationAirport": "DFW",
+        "averageDistance": 1438.6400146484375
+    },
+    {
+        "startingAirport": "LGA",
+        "destinationAirport": "DTW",
+        "averageDistance": 633.4730224609375
+    },
+    {
+        "startingAirport": "LGA",
+        "destinationAirport": "IAD",
+        "averageDistance": 666.7979736328125
+    },
+    {
+        "startingAirport": "LGA",
+        "destinationAirport": "LAX",
+        "averageDistance": 2714.4130859375
+    },
+    {
+        "startingAirport": "LGA",
+        "destinationAirport": "MIA",
+        "averageDistance": 1194.010009765625
+    },
+    {
+        "startingAirport": "LGA",
+        "destinationAirport": "OAK",
+        "averageDistance": 2557.0
+    },
+    {
+        "startingAirport": "LGA",
+        "destinationAirport": "ORD",
+        "averageDistance": 758.1240234375
+    },
+    {
+        "startingAirport": "LGA",
+        "destinationAirport": "PHL",
+        "averageDistance": 953.155029296875
+    },
+    {
+        "startingAirport": "LGA",
+        "destinationAirport": "SFO",
+        "averageDistance": 2829.7041015625
+    },
+    {
+        "startingAirport": "MIA",
+        "destinationAirport": "ATL",
+        "averageDistance": 1099.89501953125
+    },
+    {
+        "startingAirport": "MIA",
+        "destinationAirport": "BOS",
+        "averageDistance": 1288.6009521484375
+    },
+    {
+        "startingAirport": "MIA",
+        "destinationAirport": "CLT",
+        "averageDistance": 908.8170166015625
+    },
+    {
+        "startingAirport": "MIA",
+        "destinationAirport": "DEN",
+        "averageDistance": 2094.827880859375
+    },
+    {
+        "startingAirport": "MIA",
+        "destinationAirport": "DFW",
+        "averageDistance": 1323.56494140625
+    },
+    {
+        "startingAirport": "MIA",
+        "destinationAirport": "DTW",
+        "averageDistance": 1420.781982421875
+    },
+    {
+        "startingAirport": "MIA",
+        "destinationAirport": "EWR",
+        "averageDistance": 1212.35302734375
+    },
+    {
+        "startingAirport": "MIA",
+        "destinationAirport": "IAD",
+        "averageDistance": 1179.5560302734375
+    },
+    {
+        "startingAirport": "MIA",
+        "destinationAirport": "JFK",
+        "averageDistance": 1146.501953125
+    },
+    {
+        "startingAirport": "MIA",
+        "destinationAirport": "LAX",
+        "averageDistance": 2438.24609375
+    },
+    {
+        "startingAirport": "MIA",
+        "destinationAirport": "LGA",
+        "averageDistance": 1173.2259521484375
+    },
+    {
+        "startingAirport": "MIA",
+        "destinationAirport": "OAK",
+        "averageDistance": 2710.2119140625
+    },
+    {
+        "startingAirport": "MIA",
+        "destinationAirport": "ORD",
+        "averageDistance": 1455.8260498046875
+    },
+    {
+        "startingAirport": "MIA",
+        "destinationAirport": "PHL",
+        "averageDistance": 1182.2340087890625
+    },
+    {
+        "startingAirport": "MIA",
+        "destinationAirport": "SFO",
+        "averageDistance": 3024.5439453125
+    },
+    {
+        "startingAirport": "OAK",
+        "destinationAirport": "ATL",
+        "averageDistance": 2404.51806640625
+    },
+    {
+        "startingAirport": "OAK",
+        "destinationAirport": "BOS",
+        "averageDistance": 2917.409912109375
+    },
+    {
+        "startingAirport": "OAK",
+        "destinationAirport": "CLT",
+        "averageDistance": 2330.052001953125
+    },
+    {
+        "startingAirport": "OAK",
+        "destinationAirport": "DEN",
+        "averageDistance": 1217.2159423828125
+    },
+    {
+        "startingAirport": "OAK",
+        "destinationAirport": "DFW",
+        "averageDistance": 1864.7230224609375
+    },
+    {
+        "startingAirport": "OAK",
+        "destinationAirport": "DTW",
+        "averageDistance": 2280.5859375
+    },
+    {
+        "startingAirport": "OAK",
+        "destinationAirport": "EWR",
+        "averageDistance": 2841.054931640625
+    },
+    {
+        "startingAirport": "OAK",
+        "destinationAirport": "IAD",
+        "averageDistance": 2710.218017578125
+    },
+    {
+        "startingAirport": "OAK",
+        "destinationAirport": "JFK",
+        "averageDistance": 2801.01708984375
+    },
+    {
+        "startingAirport": "OAK",
+        "destinationAirport": "LAX",
+        "averageDistance": 1093.157958984375
+    },
+    {
+        "startingAirport": "OAK",
+        "destinationAirport": "LGA",
+        "averageDistance": 2557.0
+    },
+    {
+        "startingAirport": "OAK",
+        "destinationAirport": "MIA",
+        "averageDistance": 2707.64208984375
+    },
+    {
+        "startingAirport": "OAK",
+        "destinationAirport": "ORD",
+        "averageDistance": 2132.45703125
+    },
+    {
+        "startingAirport": "OAK",
+        "destinationAirport": "PHL",
+        "averageDistance": 2757.051025390625
+    },
+    {
+        "startingAirport": "OAK",
+        "destinationAirport": "SFO",
+        "averageDistance": 1018.1309814453125
+    },
+    {
+        "startingAirport": "ORD",
+        "destinationAirport": "ATL",
+        "averageDistance": 938.4639892578125
+    },
+    {
+        "startingAirport": "ORD",
+        "destinationAirport": "BOS",
+        "averageDistance": 884.18701171875
+    },
+    {
+        "startingAirport": "ORD",
+        "destinationAirport": "CLT",
+        "averageDistance": 893.7540283203125
+    },
+    {
+        "startingAirport": "ORD",
+        "destinationAirport": "DEN",
+        "averageDistance": 1079.8480224609375
+    },
+    {
+        "startingAirport": "ORD",
+        "destinationAirport": "DFW",
+        "averageDistance": 1034.3280029296875
+    },
+    {
+        "startingAirport": "ORD",
+        "destinationAirport": "DTW",
+        "averageDistance": 405.74798583984375
+    },
+    {
+        "startingAirport": "ORD",
+        "destinationAirport": "EWR",
+        "averageDistance": 774.6530151367188
+    },
+    {
+        "startingAirport": "ORD",
+        "destinationAirport": "IAD",
+        "averageDistance": 784.3259887695312
+    },
+    {
+        "startingAirport": "ORD",
+        "destinationAirport": "JFK",
+        "averageDistance": 858.4229736328125
+    },
+    {
+        "startingAirport": "ORD",
+        "destinationAirport": "LAX",
+        "averageDistance": 1903.675048828125
+    },
+    {
+        "startingAirport": "ORD",
+        "destinationAirport": "LGA",
+        "averageDistance": 748.708984375
+    },
+    {
+        "startingAirport": "ORD",
+        "destinationAirport": "MIA",
+        "averageDistance": 1443.114013671875
+    },
+    {
+        "startingAirport": "ORD",
+        "destinationAirport": "OAK",
+        "averageDistance": 2130.0849609375
+    },
+    {
+        "startingAirport": "ORD",
+        "destinationAirport": "PHL",
+        "averageDistance": 821.72802734375
+    },
+    {
+        "startingAirport": "ORD",
+        "destinationAirport": "SFO",
+        "averageDistance": 1993.1920166015625
+    },
+    {
+        "startingAirport": "PHL",
+        "destinationAirport": "ATL",
+        "averageDistance": 847.72900390625
+    },
+    {
+        "startingAirport": "PHL",
+        "destinationAirport": "BOS",
+        "averageDistance": 410.6000061035156
+    },
+    {
+        "startingAirport": "PHL",
+        "destinationAirport": "CLT",
+        "averageDistance": 716.4229736328125
+    },
+    {
+        "startingAirport": "PHL",
+        "destinationAirport": "DEN",
+        "averageDistance": 1839.3270263671875
+    },
+    {
+        "startingAirport": "PHL",
+        "destinationAirport": "DFW",
+        "averageDistance": 1459.991943359375
+    },
+    {
+        "startingAirport": "PHL",
+        "destinationAirport": "DTW",
+        "averageDistance": 730.8679809570312
+    },
+    {
+        "startingAirport": "PHL",
+        "destinationAirport": "EWR",
+        "averageDistance": 895.406982421875
+    },
+    {
+        "startingAirport": "PHL",
+        "destinationAirport": "IAD",
+        "averageDistance": 924.2030029296875
+    },
+    {
+        "startingAirport": "PHL",
+        "destinationAirport": "JFK",
+        "averageDistance": 701.4249877929688
+    },
+    {
+        "startingAirport": "PHL",
+        "destinationAirport": "LAX",
+        "averageDistance": 2538.909912109375
+    },
+    {
+        "startingAirport": "PHL",
+        "destinationAirport": "LGA",
+        "averageDistance": 1037.39599609375
+    },
+    {
+        "startingAirport": "PHL",
+        "destinationAirport": "MIA",
+        "averageDistance": 1205.31494140625
+    },
+    {
+        "startingAirport": "PHL",
+        "destinationAirport": "OAK",
+        "averageDistance": 2599.72412109375
+    },
+    {
+        "startingAirport": "PHL",
+        "destinationAirport": "ORD",
+        "averageDistance": 861.2890014648438
+    },
+    {
+        "startingAirport": "PHL",
+        "destinationAirport": "SFO",
+        "averageDistance": 2697.212890625
+    },
+    {
+        "startingAirport": "SFO",
+        "destinationAirport": "ATL",
+        "averageDistance": 2527.530029296875
+    },
+    {
+        "startingAirport": "SFO",
+        "destinationAirport": "BOS",
+        "averageDistance": 2796.676025390625
+    },
+    {
+        "startingAirport": "SFO",
+        "destinationAirport": "CLT",
+        "averageDistance": 2644.925048828125
+    },
+    {
+        "startingAirport": "SFO",
+        "destinationAirport": "DEN",
+        "averageDistance": 1133.7469482421875
+    },
+    {
+        "startingAirport": "SFO",
+        "destinationAirport": "DFW",
+        "averageDistance": 1690.2919921875
+    },
+    {
+        "startingAirport": "SFO",
+        "destinationAirport": "DTW",
+        "averageDistance": 2500.52294921875
+    },
+    {
+        "startingAirport": "SFO",
+        "destinationAirport": "EWR",
+        "averageDistance": 2695.10302734375
+    },
+    {
+        "startingAirport": "SFO",
+        "destinationAirport": "IAD",
+        "averageDistance": 2590.279052734375
+    },
+    {
+        "startingAirport": "SFO",
+        "destinationAirport": "JFK",
+        "averageDistance": 2642.946044921875
+    },
+    {
+        "startingAirport": "SFO",
+        "destinationAirport": "LAX",
+        "averageDistance": 475.5780029296875
+    },
+    {
+        "startingAirport": "SFO",
+        "destinationAirport": "LGA",
+        "averageDistance": 2814.322021484375
+    },
+    {
+        "startingAirport": "SFO",
+        "destinationAirport": "MIA",
+        "averageDistance": 2974.0869140625
+    },
+    {
+        "startingAirport": "SFO",
+        "destinationAirport": "OAK",
+        "averageDistance": 880.6729736328125
+    },
+    {
+        "startingAirport": "SFO",
+        "destinationAirport": "ORD",
+        "averageDistance": 2048.448974609375
+    },
+    {
+        "startingAirport": "SFO",
+        "destinationAirport": "PHL",
+        "averageDistance": 2751.889892578125
+    }
+]
