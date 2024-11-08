@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-FOr running experiements for AT3
+For running experiements for AT3 Airfare Predictions. Various models were used including linear regression, XGBoost, Light GBM and Neural Network using Tensorflow.
 
 ## Project Organization
 
